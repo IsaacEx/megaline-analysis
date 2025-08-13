@@ -22,13 +22,13 @@ Identificar diferencias en el consumo y los ingresos generados por cada plan, as
 
 Carga y limpieza de datos <br>
 ↓ <br>
-Transformación y creación de variables (unidades, fechas, meses de actividad)
+Transformación y creación de variables (unidades, fechas, meses de actividad)<br>
 ↓ <br>
-Análisis exploratorio del uso (llamadas, mensajes, datos)
+Análisis exploratorio del uso (llamadas, mensajes, datos)<br>
 ↓ <br>
-Cálculo de ingresos por usuario y plan
+Cálculo de ingresos por usuario y plan<br>
 ↓ <br>
-Pruebas de hipótesis para comparar planes y regiones
+Pruebas de hipótesis para comparar planes y regiones<br>
 ↓ <br>
 Conclusiones y recomendaciones 
 

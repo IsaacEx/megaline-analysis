@@ -31,6 +31,7 @@ Identificar diferencias en el consumo y los ingresos generados por cada plan, as
 [5] Pruebas de hipótesis para comparar planes y regiones
      ↓
 [6] Conclusiones y recomendaciones
+`​`​`
 
 ---
 

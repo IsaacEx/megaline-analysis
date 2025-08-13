@@ -19,19 +19,18 @@ Identificar diferencias en el consumo y los ingresos generados por cada plan, as
 ---
 
 ## Flujo de trabajo del análisis
-```txt
-[1] Carga y limpieza de datos
-     ↓
-[2] Transformación y creación de variables (unidades, fechas, meses de actividad)
-     ↓
-[3] Análisis exploratorio del uso (llamadas, mensajes, datos)
-     ↓
-[4] Cálculo de ingresos por usuario y plan
-     ↓
-[5] Pruebas de hipótesis para comparar planes y regiones
-     ↓
-[6] Conclusiones y recomendaciones
-`​`​`
+
+Carga y limpieza de datos <br>
+     ↓<br>
+Transformación y creación de variables (unidades, fechas, meses de actividad)
+     ↓<br>
+Análisis exploratorio del uso (llamadas, mensajes, datos)
+     ↓<br>
+Cálculo de ingresos por usuario y plan
+     ↓<br>
+Pruebas de hipótesis para comparar planes y regiones
+     ↓<br>
+Conclusiones y recomendaciones 
 
 ---
 
